@@ -1,0 +1,7 @@
+.original__movies {
+  overflow-x: scroll;
+  white-space: nowrap;
+}
+img {
+  width: 100px;
+}
